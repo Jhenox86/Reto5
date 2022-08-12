@@ -1,0 +1,16 @@
+Modelo\Dao\ProyectosDao.class
+Modelo\Vo\ComprasProveedorVo.class
+Modelo\Dao\ListaLiderDao.class
+Modelo\ProyectosVo.class
+Util\JDBCUtilities.class
+misiontic2022\reto5\Reto5.class
+Controlador\ReportesController.class
+Modelo\ListaLiderDao.class
+Modelo\Dao\ComprasProveedorDao.class
+Modelo\ListaLiderVo.class
+Modelo\ComprasProveedorDao.class
+Vista\ReportesView.class
+Modelo\Vo\ListaLiderVo.class
+Modelo\ProyectosDao.class
+Modelo\Vo\ProyectosVo.class
+Modelo\ComprasProveedorVo.class
